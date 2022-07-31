@@ -1,0 +1,12 @@
+github.com/Liberontissauri/blockchains-in-go v0.2.1 h1:xm1onflUgn73P+vA74QByw0TfFOzb04/6JRfBIyQyns=
+github.com/Liberontissauri/blockchains-in-go v0.2.1/go.mod h1:LgRMC0D7uJpSED8xxGHe2dfW3wZXNa1FnI6PLvSr0sU=
+github.com/Liberontissauri/blockchains-in-go v0.2.2 h1:1E18miTOjhXVfBnV5j1ff0UZVeGikUVlHdyGNAL4eCQ=
+github.com/Liberontissauri/blockchains-in-go v0.2.2/go.mod h1:LgRMC0D7uJpSED8xxGHe2dfW3wZXNa1FnI6PLvSr0sU=
+github.com/Liberontissauri/blockchains-in-go v0.2.3 h1:qzQSc/kNIp+pOvVHeEyT7+v2EFMhDo7PRHwDK/FymLE=
+github.com/Liberontissauri/blockchains-in-go v0.2.3/go.mod h1:LgRMC0D7uJpSED8xxGHe2dfW3wZXNa1FnI6PLvSr0sU=
+github.com/Liberontissauri/blockchains-in-go v0.3.0 h1:qitiMlc6yezEIMQGJqLTUG7/3u8qMGrEcEafAvxrXLo=
+github.com/Liberontissauri/blockchains-in-go v0.3.0/go.mod h1:LgRMC0D7uJpSED8xxGHe2dfW3wZXNa1FnI6PLvSr0sU=
+github.com/Liberontissauri/blockchains-in-go v0.3.1 h1:rcnFHCg4sowtGQ+qc8CcIcko+4wdToewR0BeCOLgt9Q=
+github.com/Liberontissauri/blockchains-in-go v0.3.1/go.mod h1:LgRMC0D7uJpSED8xxGHe2dfW3wZXNa1FnI6PLvSr0sU=
+github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
+github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
